@@ -40,4 +40,8 @@ ConcertGO is a platform that provides concert-goers with nearest parking lot opt
 
 ### Frontend
 
-`Frontend/` contains HTML, CSS, JS files for the front end of the platform. 
+`Frontend/` contains HTML, CSS, JS files for the frontend of the platform. 
+
+
+## Architecture
+
