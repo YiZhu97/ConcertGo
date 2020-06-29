@@ -45,3 +45,5 @@ ConcertGO is a platform that provides concert-goers with nearest parking lot opt
 
 ## Architecture
 
+<div style="text-align:center; margin: 50px 0"><img src ="architecture.jpg" height="200"/></div>
+
