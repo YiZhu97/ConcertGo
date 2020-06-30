@@ -58,4 +58,4 @@ User inputs the concert information on http://concertgo.me/, after clicking subm
 
 <div style="text-align:center; margin: 50px 0"><img src ="./pics/demo2.jpg" height="500"/></div>
 
-<div style="text-align:center; margin: 50px 0"><img src ="./pics/demo.jpg" height="470"/></div>
+<div style="text-align:center; margin: 50px 0"><img src ="./pics/demo.jpg" height="473"/></div>
