@@ -45,5 +45,12 @@ ConcertGO is a platform that provides concert-goers with nearest parking lot opt
 
 ## Architecture
 
-<div style="text-align:center; margin: 50px 0"><img src ="architecture.jpg" height="600"/></div>
+<div style="text-align:center; margin: 50px 0"><img src ="architecture.jpg" height="400"/></div>
+
+The past concerts data are collected through API requests on multiple EC2 instances and stored into MySQL database. All concerts data are backed up in S3 with AWS Database Migration Service. The task of calculating the recommendation time of each parking lot is distributed using Kafka on AWS MSK, and the results are stored back into MySQL. The Flask front end handles user's requests from HTML.
+
+
+## User Guide
+
+User inputs the concert information on http://concertgo.me/, after clicking submit, the map shows the location of the nearby parking lots, and provides the recommendation time for each parking lot in minutes. 
 
