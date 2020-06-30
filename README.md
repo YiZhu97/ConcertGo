@@ -54,3 +54,8 @@ The past concerts data are collected through API requests on multiple EC2 instan
 
 User inputs the concert information on http://concertgo.me/, after clicking submit, the map shows the location of the nearby parking lots, and provides the recommendation time for each parking lot in minutes. 
 
+<div style="text-align:center; margin: 50px 0"><img src ="./pics/demo3.jpg" height="400"/></div>
+
+<div style="text-align:center; margin: 50px 0"><img src ="./pics/demo2.jpg" height="400"/></div>
+
+<div style="text-align:center; margin: 50px 0"><img src ="./pics/demo.jpg" height="400"/></div>
